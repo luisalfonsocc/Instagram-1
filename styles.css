@@ -1,0 +1,79 @@
+body {
+    background: black;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+div.header {
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+
+div.post-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px;
+}
+
+div.post {
+    background: white;
+    margin: auto;
+    width: 500px;
+    height: 550px;
+}
+
+.post-img>img {
+    max-width: 100%;
+}
+
+.fa-html5 {
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.fa-ellipsis-vertical {
+    font-size: 25px;
+    margin-left: auto;
+}
+
+div.post-icons {
+    font-size: 26px;
+    margin: 4px;
+
+}
+
+div.post-body {
+    margin: 5px;
+
+}
+
+div.share-icon {
+    font-size: 25px;
+}
+
+div.post-icons {
+    display: inline-block;
+    width: 75%;
+}
+
+div.share-icon {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+}
+
+* {
+    margin: 0;
+   
+}
+
+div.text {
+    margin: 2px;
+}
+
+div.botton-icons
+{
+    padding: 3px;
+}
